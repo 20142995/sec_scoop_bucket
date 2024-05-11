@@ -5,9 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fatedier/frp/releases/download/v0.58.0/frp_0.58.0_windows_amd64.zip",
-            "hash": "de5e83cf5df11230a1ceb8a7a3e39c88efa96733bc77933e1abeccca8dbbbfa9"
-        }
+            "url": "https://github.com/fatedier/frp/releases/download/v0.58.0/frp_0.58.0_windows_amd64.zip"}
     },
     "bin": "frpc.exe",
     "checkver": {

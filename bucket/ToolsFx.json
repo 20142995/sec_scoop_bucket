@@ -4,7 +4,6 @@
     "homepage": "https://github.com/Leon406/ToolsFx",
     "license": "Apache-2.0",
     "url": "https://github.com/Leon406/ToolsFx/releases/download/v1.18.0/ToolsFx-1.18.0-withjre-win-x64.zip",
-    "hash": "",
     "bin": "ToolsFx.bat",
     "checkver": {
         "github": "https://github.com/Leon406/ToolsFx"

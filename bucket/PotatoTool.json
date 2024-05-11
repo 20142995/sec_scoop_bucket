@@ -7,7 +7,6 @@
         "JDK": "java/openjdk"
     },
     "url": "https://github.com/HotBoy-java/PotatoTool/releases/download/Release/PotatoTool-1.1-jdk8.jar#/PotatoTool.jar",
-    "hash": "",
     "bin": "PotatoTool.jar",
     "checkver": {
         "github": "https://github.com/HotBoy-java/PotatoTool"
