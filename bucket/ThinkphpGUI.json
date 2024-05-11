@@ -1,0 +1,18 @@
+{
+    "version": "1.3",
+    "description": "Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。",
+    "homepage": "https://github.com/Lotus6/ThinkphpGUI",
+    "license": "Apache-2.0",
+    "suggest": {
+        "JDK": "java/openjdk"
+    },
+    "url": "https://github.com/Lotus6/ThinkphpGUI/releases/download/1.3/ThinkphpGUI-1.3-SNAPSHOT.jar#/ThinkphpGUI.jar",
+    "hash": "0427080da5ad9fc3a423e196b3be359d682ac8ef2a944f66da16777be8958942",
+    "bin": "ThinkphpGUI.jar",
+    "checkver": {
+        "github": "https://github.com/Lotus6/ThinkphpGUI"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Lotus6/ThinkphpGUI/releases/download/$version/ThinkphpGUI-$version-SNAPSHOT.jar#/ThinkphpGUI.jar"
+    }
+}
