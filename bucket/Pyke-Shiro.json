@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "java/openjdk"
     },
-    "url": "https://github.com/sma11new/Pyke-Shiro/releases/download/$version/Pyke-Shiro_$version.jar#/Pyke-Shiro.jar",
+    "url": "https://github.com/sma11new/Pyke-Shiro/releases/download/0.3/Pyke-Shiro_0.3.jar#/Pyke-Shiro.jar",
     "hash": "a8616ca7013f35333e8443251342a91fd9d18f6351c33a73e8dec4f90d236e92",
     "bin": "Pyke-Shiro.jar",
     "checkver": {
