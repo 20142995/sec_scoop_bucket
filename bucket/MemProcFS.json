@@ -1,0 +1,24 @@
+{
+    "version": "5.9.13",
+    "description": "MemProcFS",
+    "homepage": "https://github.com/ufrisk/MemProcFS",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ufrisk/MemProcFS/releases/download/v5.9/MemProcFS_files_and_binaries_v5.9.13-win_x64-20240510.zip",
+            "hash": ""
+        }
+    },
+    "bin": "MemProcFS.exe",
+    "checkver": {
+        "github": "https://github.com/ufrisk/MemProcFS"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/ufrisk/MemProcFS/releases/download/v5.9/MemProcFS_files_and_binaries_v5.9.13-win_x64-20240510.zip"
+            }
+        }
+
+    }
+}
