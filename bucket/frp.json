@@ -20,7 +20,8 @@
             }
         },
         "hash": {
-            "url": "$baseurl/frp_checksums.txt"
+            "url": "$baseurl/frp_checksums.txt",
+            "regex": "$sha256\\s*$basename"
         }
     }
 }
