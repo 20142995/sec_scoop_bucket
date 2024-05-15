@@ -1,0 +1,23 @@
+{
+    "version": "2.1.4",
+    "description": "安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。",
+    "homepage": "https://github.com/TongchengOpenSource/AppScan",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/TongchengOpenSource/AppScan/releases/download/2.1.4/app-scan.Setup.2.1.4.exe#/dl.7z",
+            "hash": ""
+        }
+    },
+    "bin": [
+
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/TongchengOpenSource/AppScan/releases/download/$version/app-scan.Setup.$version.exe#/dl.7z"
+            }
+        }
+    }
+}
